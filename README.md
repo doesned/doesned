@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doesned
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning web developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making a site
 - 📫 How to reach me noesled@gmail.com
 
 <!---
